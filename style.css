@@ -1,0 +1,12 @@
+body{
+	background-color:#008694;
+ }  
+
+.container {
+display: flex;
+justify-content: center;
+}
+        /* unvisited link */
+a:link {color: #FF0000;}
+          /* mouse over link */
+a:hover {color: #FF00FF;}
